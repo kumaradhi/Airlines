@@ -49,7 +49,7 @@
 
 .left-col {
   width: 45vw;
-  height: 100%;
+  height: 910px;
   background-image: url("https://wallpapermemory.com/uploads/320/airplane-aircraft-wallpaper-hd-1680x1050-484335.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -81,7 +81,7 @@ h1 {
   font-size: 2.5rem;
   letter-spacing: 0.5rem;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 80px;
 }
 
 p {
@@ -154,7 +154,7 @@ button:active {
   opacity: 0.8;
 }
 
-/* Toggle Switch */
+
 
 .theme-switch-wrapper {
   display: flex;
@@ -252,7 +252,7 @@ input:checked + .slider:before {
   }
   button {
     width: 10px;
-    font-size: 20px;
+    font-size: 30px;
   }
   .theme-switch-wrapper {
     width: 120px;
